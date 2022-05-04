@@ -1,0 +1,10 @@
+C:\Users\Aluno\source\repos\ds2-banco\bin\Debug\ds2-banco.exe.config
+C:\Users\Aluno\source\repos\ds2-banco\bin\Debug\ds2-banco.exe
+C:\Users\Aluno\source\repos\ds2-banco\bin\Debug\ds2-banco.pdb
+C:\Users\Aluno\source\repos\ds2-banco\obj\Debug\ds2-banco.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\ds2-banco\obj\Debug\ds2_banco.frmContaCliente.resources
+C:\Users\Aluno\source\repos\ds2-banco\obj\Debug\ds2_banco.Properties.Resources.resources
+C:\Users\Aluno\source\repos\ds2-banco\obj\Debug\ds2-banco.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\ds2-banco\obj\Debug\ds2-banco.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ds2-banco\obj\Debug\ds2-banco.exe
+C:\Users\Aluno\source\repos\ds2-banco\obj\Debug\ds2-banco.pdb
