@@ -8,3 +8,13 @@ C:\Users\Aluno\source\repos\ds2-banco\obj\Debug\ds2-banco.csproj.GenerateResourc
 C:\Users\Aluno\source\repos\ds2-banco\obj\Debug\ds2-banco.csproj.CoreCompileInputs.cache
 C:\Users\Aluno\source\repos\ds2-banco\obj\Debug\ds2-banco.exe
 C:\Users\Aluno\source\repos\ds2-banco\obj\Debug\ds2-banco.pdb
+C:\Users\Marsh\Documents\Programação\VS\ds2-banco\bin\Debug\ds2-banco.exe.config
+C:\Users\Marsh\Documents\Programação\VS\ds2-banco\bin\Debug\ds2-banco.exe
+C:\Users\Marsh\Documents\Programação\VS\ds2-banco\bin\Debug\ds2-banco.pdb
+C:\Users\Marsh\Documents\Programação\VS\ds2-banco\obj\Debug\ds2-banco.csproj.AssemblyReference.cache
+C:\Users\Marsh\Documents\Programação\VS\ds2-banco\obj\Debug\ds2_banco.frmContaCliente.resources
+C:\Users\Marsh\Documents\Programação\VS\ds2-banco\obj\Debug\ds2_banco.Properties.Resources.resources
+C:\Users\Marsh\Documents\Programação\VS\ds2-banco\obj\Debug\ds2-banco.csproj.GenerateResource.cache
+C:\Users\Marsh\Documents\Programação\VS\ds2-banco\obj\Debug\ds2-banco.csproj.CoreCompileInputs.cache
+C:\Users\Marsh\Documents\Programação\VS\ds2-banco\obj\Debug\ds2-banco.exe
+C:\Users\Marsh\Documents\Programação\VS\ds2-banco\obj\Debug\ds2-banco.pdb

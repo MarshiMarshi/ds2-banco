@@ -11,7 +11,5 @@ namespace ds2_banco
         public string nome;
         public string sobrenome;
         public string cpf;
-
-
     }
 }
